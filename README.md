@@ -1,5 +1,2 @@
-simple program that reads student names manually or from a file, and assigns them equivalently to specified exam classrooms.
-the program generates a matrix which shows every student's assigned seat in each classroom, making it very easy to seat them when they arrive into the classroom.
-to apply changes to the students file the update prompt needs to be selected after you are satisfied with the changes you made.
-to generate the assigned lists+assigned seats from the current students file the assign prompt needs to be selected.
-
+This program allows you to input student names either manually or by uploading a file and then assigns them to designated exam classrooms. It generates a seating chart matrix that displays each student's assigned seat in their respective classroom, making the seating process efficient when they arrive.
+To update the student file with any changes you've made, simply select the "Update" prompt once you're satisfied. To generate the seating assignments and lists from the current student file, use the "Assign" prompt.
